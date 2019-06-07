@@ -1,0 +1,72 @@
+.background {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #7617d6;
+    height: 100vh;
+}
+
+.container {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 45vh;
+        
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    padding: 20px;
+    box-shadow: 5px 10px #560f9e;
+}
+
+.containerBack {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 45vh;
+        
+    border-radius: 50px;
+    background-color: #FFFFFF;
+    padding: 20px;
+    box-shadow: 5px 10px #560f9e;
+}
+
+
+.nameApp {
+    color: #2e2b30
+}
+
+.button {
+    width: 100%;
+    background-color: #8B16FF;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.inputForm {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(197, 187, 187);
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.marginTop {
+    margin-top: 5vh;
+}
+
+.back {
+    background-color: #34363D
+}
+
+.nameBack {
+    color: white
+}

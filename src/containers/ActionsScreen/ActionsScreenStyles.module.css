@@ -1,0 +1,35 @@
+.background {
+	display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: column;
+    background-color: #7617d6;
+    height: 100vh;
+}
+
+.container {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5vh;
+    margin-right: 5vh;
+    width: 45vh;
+        
+    border-radius: 50px;
+    background-color: #FFFFFF;
+    padding: 20px;
+    box-shadow: 5px 10px #560f9e;
+}
+
+.logout {
+    background-color: #34363D
+}
+
+.nameLogout {
+    color: white
+}
+
+.nameApp {
+    color: #2e2b30
+}
